@@ -61,7 +61,7 @@
 
     }
   })
-  if(window.location.pathname == AdminstratorURL){
+  if(window.location == AdminstratorURL){
 
     $("#administrator").attr('checked', true);
     $("#instractor").attr('checked', false);
@@ -70,7 +70,7 @@
 
   }
 
-  if(window.location.pathname == InstructorURL){
+  if(window.location == InstructorURL){
 
     $("#instractor").attr('checked', true);
     $("#administrator").attr('checked', false);
