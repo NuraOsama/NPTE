@@ -1,0 +1,1962 @@
+/*--media query--*/
+@media screen and  (max-width:320px){
+
+.head.d-flex{
+
+    display: block !important;
+    text-align:center !important;
+    margin: 0 auto !important;
+    justify-content: unset !important;
+    align-items: unset;
+}
+
+.head.d-flex .sub-head{
+
+    margin-bottom: 1rem !important;
+
+}
+h2{
+    
+    font-size: 30px !important;
+}
+/*--header--*/
+/*--top header--*/
+
+.top-header-sec .col-lg-5:last-child .header-content {
+
+    float: unset !important;
+    margin: 0 auto !important;
+
+}
+
+.top-header-sec .col-lg-5:last-child .header-content ul.d-flex{
+
+   justify-content: center !important;
+
+}
+
+.top-header-sec .main-bars{
+
+    display: none !important;
+
+}
+.top-header-sec .responsive-bars{
+
+    display: block !important;
+
+}
+.top-header-sec .header-content .bars-icon{
+
+    margin: 0 auto !important;
+
+}
+.top-header-sec .bars span:nth-child(2){
+
+
+     width: 30px !important;
+
+}
+.top-header-sec ul>li>a {
+   
+    padding: 1rem 0.2rem !important;
+}
+.dropdown-sub-menu.notifications-sub-men{
+
+    display: none !important;
+
+}
+
+.sidebar-content {
+    
+    width: 260px !important;
+}
+.sidebar-content  .items {
+
+    height: 470px !important;
+
+}
+/*--//top header--*/
+
+/*--side header--*/
+
+.side-navbar{
+
+    width: 0 !important;
+  
+}
+
+.sidenavbar-background-fade.show{
+  
+    opacity: 1 !important;
+    visibility: visible !important;
+    
+}
+
+/*--//side header--*/
+/*--//header--*/
+
+/*--main page content--*/
+
+.main-page-content{
+
+    margin-right:0 !important;
+
+}
+
+.page-content>.container-fluid{
+
+    padding: 0 !important;
+}
+
+/*--//main page content--*/
+
+/*--toggle sidebar && toggle page--*/
+
+.top-header-sec .bars.resize span:nth-child(2){
+
+    width:25px !important;
+
+}
+.resize-sidebar .side-navbar,
+.resize-sidebar.expand-sidebar .side-navbar{
+
+    width:240px !important;  
+  
+}
+.resize-sidebar .side-navbar .navbar-brand{
+
+    width: 100px !important;
+}
+.resize-sidebar .side-navbar .navbar-brand img{
+
+
+    content:url(../images/orca-logo-ar.png) !important;
+
+
+}
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link{
+
+ 
+ border-bottom-color:transparent !important;
+
+}
+
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link .text-icon{
+
+    margin-left: 7px !important;
+
+}
+
+.resize-sidebar .side-navbar .text,
+.resize-sidebar  .side-navbar span:nth-child(3){
+
+    opacity: 1 !important;
+    display: inline !important;
+
+}
+.resize-sidebar .main-page-content,
+.resize-sidebar.expand-sidebar .main-page-content{
+
+    margin-right:0 !important;
+
+}
+
+/*--//toggle sidebar--*/
+/*---------------------------------------- Home Page ------------------------------------------------*/
+
+.orca-sec .head .inline {
+    display: block;
+    text-align: right;
+    float:unset;
+    margin-bottom:0.3rem;
+}
+.orca-sec .head .inline:last-child {
+   
+    margin-bottom:0;
+}
+/*----------------------------------------// Home Page ------------------------------------------------*/
+ /*-------------------------------------------- Sign Pages-----------------------------------------------------------*/
+  .sign-sec .login-content  .form-row{
+
+      display: block;
+ 
+     }
+     .sign-sec .login-content  .forget-password {
+    
+       text-align: right;
+    }
+   
+    /*--------------------------------------------// Sign Pages-----------------------------------------------------------*/
+/*---------------------------------------- Sub Page Content ------------------------------------------------*/
+
+.view-content .col-sm-12{
+
+    margin-bottom:30px !important;
+
+}
+.view-content .text-content {
+   
+    display: block !important;
+    align-items:unset !important;
+
+}
+
+.view-content .text-content .sub-text {
+    margin-right: 0 !important;
+    margin-top: 1rem !important;
+}
+
+.view-content .text-content .background-icon{
+
+    margin: unset !important;
+
+}
+.view-content.medical-view .col-lg-5 {
+    padding-right: 5px!important;
+    padding-left: 10px!important;
+}
+
+.view-content .owl-images .image {
+       
+    width: 100% !important;
+}
+.view-content .col-lg-4 .image,
+ .view-content .owl-images .image,
+ .view-content.gallery-slider-view .owl-images .image{
+       
+       height:100% !important;
+ }
+ 
+.view-content .text-content {
+    margin-bottom: 1rem !important;
+    align-items: flex-start !important;
+    display: block !important;
+}
+/*--------------------------------------// Sub Page Content ------------------------------------------------*/ 
+
+}
+@media screen and (max-width:375px) and (min-width:321px){
+
+.head.d-flex{
+
+    display: block !important;
+    text-align:center !important;
+    margin: 0 auto !important;
+    justify-content: unset !important;
+    align-items: unset !important;
+}
+
+.head.d-flex .sub-head{
+
+    margin-bottom: 1rem !important;
+
+}
+/*--header--*/
+/*--top header--*/
+
+.top-header-sec .col-lg-5:last-child .header-content {
+    float: unset !important;
+    margin: 0 auto !important;
+}
+
+.top-header-sec .col-lg-5:last-child .header-content ul.d-flex{
+
+   justify-content: center !important;
+
+}
+
+
+.top-header-sec .main-bars{
+
+    display: none !important;
+
+}
+.top-header-sec .responsive-bars{
+
+    display: block !important;
+
+}
+.top-header-sec .header-content .bars-icon{
+
+    margin: 0 auto !important;
+
+}
+.top-header-sec .bars span:nth-child(2){
+
+
+     width: 30px !important;
+
+}
+.top-header-sec ul>li>a {
+   
+    padding: 1rem 0.2rem !important;
+}
+.dropdown-sub-menu.notifications-sub-men{
+
+    display: none !important;
+
+}
+.sidebar-content  .items {
+    
+    height: 500px !important;
+
+}
+
+
+/*--//top header--*/
+
+/*--side header--*/
+
+.side-navbar{
+
+    width: 0 !important;
+  
+}
+
+.sidenavbar-background-fade.show{
+  
+    opacity: 1 !important;
+    visibility: visible !important;
+    
+}
+
+/*--//side header--*/
+/*--//header--*/
+
+/*--main page content--*/
+
+.main-page-content{
+
+    margin-right:0 !important;
+
+}
+
+.page-content>.container-fluid{
+
+    padding: 0 !important;
+}
+/*--//main page content--*/
+
+/*--toggle sidebar && toggle page--*/
+
+.top-header-sec .bars.resize span:nth-child(2){
+
+    width:25px !important;
+
+}
+.resize-sidebar .side-navbar,
+.resize-sidebar.expand-sidebar .side-navbar{
+
+    width:270px !important;  
+  
+}
+.resize-sidebar .side-navbar .navbar-brand{
+
+    width: 100px !important;
+}
+.resize-sidebar .side-navbar .navbar-brand img{
+
+
+    content:url(../images/orca-logo-ar.png) !important;
+
+
+}
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link{
+
+ 
+ border-bottom-color:transparent !important;
+
+}
+
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link .text-icon{
+
+    margin-left: 7px !important;
+
+}
+
+.resize-sidebar .side-navbar .text,
+.resize-sidebar  .side-navbar span:nth-child(3){
+
+    opacity: 1 !important;
+    display: inline !important;
+
+}
+.resize-sidebar .main-page-content,
+.resize-sidebar.expand-sidebar .main-page-content{
+
+    margin-right:0 !important;
+
+}
+
+/*--//toggle sidebar--*/
+
+/*---------------------------------------- Home Page ------------------------------------------------*/
+
+.orca-sec .head .inline {
+    display: block;
+    text-align: right;
+    float:unset;
+    margin-bottom:0.3rem;
+}
+.orca-sec .head .inline:last-child {
+   
+    margin-bottom:0;
+}
+/*----------------------------------------// Home Page ------------------------------------------------*/
+ /*-------------------------------------------- Sign Pages-----------------------------------------------------------*/
+  .sign-sec .login-content  .form-row{
+
+      display: block;
+ 
+     }
+     .sign-sec .login-content  .forget-password {
+    
+       text-align: right;
+    }
+   
+/*--------------------------------------------// Sign Pages-----------------------------------------------------------*/
+
+/*---------------------------------------- Sub Page Content ------------------------------------------------*/
+
+.view-content .col-sm-12{
+
+    margin-bottom:30px !important;
+
+}
+.view-content .text-content {
+   
+    display: block !important;
+    align-items:unset !important;
+
+}
+
+.view-content .text-content .sub-text {
+    margin-right: 0 !important;
+    margin-top: 1rem !important;
+}
+
+.view-content .text-content .background-icon{
+
+    margin: unset !important;
+
+}
+.view-content.medical-view .col-lg-5 {
+    padding-right: 5px!important;
+    padding-left: 10px!important;
+}
+
+.view-content .owl-images .image {
+       
+    width: 100% !important;
+}
+
+.view-content .col-lg-4 .image,
+.view-content .owl-images .image,
+ .view-content.gallery-slider-view .owl-images .image{
+       
+       height:100% !important;
+   }
+/*--------------------------------------// Sub Page Content ------------------------------------------------*/ 
+
+}
+@media screen and (max-width:425px) and (min-width:376px) {
+    
+.head.d-flex{
+
+    display: block !important;
+    text-align:center !important;
+    margin: 0 auto !important;
+    justify-content: unset !important;
+    align-items: unset !important;
+}
+
+.head.d-flex .sub-head{
+
+    margin-bottom: 1rem !important;
+
+}
+/*--header--*/
+/*--top header--*/
+
+.top-header-sec .col-lg-5:last-child .header-content {
+    float: unset !important;
+    margin: 0 auto !important;
+}
+
+.top-header-sec .col-lg-5:last-child .header-content ul.d-flex{
+
+   justify-content: center !important;
+
+}
+
+.dropdown-sub-menu.notifications-sub-men{
+
+    display: none !important;
+
+}
+.top-header-sec .main-bars{
+
+    display: none !important;
+
+}
+.top-header-sec .responsive-bars{
+
+    display: block !important;
+
+}
+.top-header-sec .header-content .bars-icon{
+
+    margin: 0 auto !important;
+
+}
+.top-header-sec .bars span:nth-child(2){
+
+
+     width: 30px !important;
+
+}
+  .top-header-sec ul>li>a {
+  
+       padding: 1rem 0.5rem !important;
+    
+    }
+.sidebar-content  .items {
+    height: 550px !important;
+
+}
+/*--//top header--*/
+
+/*--side header--*/
+
+.side-navbar{
+
+    width: 0 !important;
+  
+}
+
+.sidenavbar-background-fade.show{
+  
+    opacity: 1 !important;
+    visibility: visible !important;
+    
+}
+
+/*--//side header--*/
+/*--//header--*/
+
+/*--main page content--*/
+
+.main-page-content{
+
+    margin-right:0 !important;
+
+}
+
+.page-content>.container-fluid{
+
+    padding: 0 !important;
+}
+
+/*--//main page content--*/
+
+/*--toggle sidebar && toggle page--*/
+
+.top-header-sec .bars.resize span:nth-child(2){
+
+    width:25px !important;
+
+}
+.resize-sidebar .side-navbar,
+.resize-sidebar.expand-sidebar .side-navbar{
+
+    width:270px !important;  
+  
+}
+.resize-sidebar .side-navbar .navbar-brand{
+
+    width: 100px !important;
+}
+.resize-sidebar .side-navbar .navbar-brand img{
+
+
+    content:url(../images/orca-logo-ar.png) !important;
+
+
+}
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link{
+
+ 
+ border-bottom-color:transparent !important;
+
+}
+
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link .text-icon{
+
+    margin-left: 7px !important;
+
+}
+
+.resize-sidebar .side-navbar .text,
+.resize-sidebar  .side-navbar span:nth-child(3){
+
+    opacity: 1 !important;
+    display: inline !important;
+
+}
+.resize-sidebar .main-page-contentو
+.resize-sidebar.expand-sidebar .main-page-content{
+
+    margin-right:0 !important;
+
+}
+
+/*--//toggle sidebar--*/
+
+/*---------------------------------------- Home Page ------------------------------------------------*/
+
+.orca-sec .head .inline {
+    display: block;
+    text-align: right;
+    float:unset;
+    margin-bottom:0.3rem;
+}
+.orca-sec .head .inline:last-child {
+   
+    margin-bottom:0;
+}
+/*----------------------------------------// Home Page ------------------------------------------------*/
+ /*-------------------------------------------- Sign Pages-----------------------------------------------------------*/
+  .sign-sec .login-content  .form-row{
+
+      display: block;
+ 
+     }
+   .sign-sec .login-content  .forget-password {
+    
+       text-align: right;
+    }
+   
+    /*--------------------------------------------// Sign Pages-----------------------------------------------------------*/
+/*---------------------------------------- Sub Page Content ------------------------------------------------*/
+
+.view-content .col-sm-12{
+
+     margin-bottom:30px !important;
+
+}
+
+.view-content .text-content {
+   
+    display: block !important;
+    align-items:unset !important;
+
+}
+
+.view-content .text-content .sub-text {
+    margin-right: 0 !important;
+    margin-top: 1rem !important;
+}
+
+.view-content .text-content .background-icon{
+
+    margin: unset !important;
+
+}
+
+.view-content.medical-view .col-lg-5 {
+    padding-right: 5px!important;
+    padding-left: 10px!important;
+}
+
+.view-content .owl-images .image {
+       
+    width: 100% !important;
+}
+
+ .view-content .col-lg-4 .image,
+ .view-content .owl-images .image,
+ .view-content.gallery-slider-view .owl-images .image{
+       
+       height:100% !important;
+   }
+/*--------------------------------------// Sub Page Content ------------------------------------------------*/ 
+
+
+}
+@media screen and (max-width:500px) and (min-width:426px){
+
+   
+.head.d-flex{
+
+    display: block !important;
+    text-align:center !important;
+    margin: 0 auto !important;
+    justify-content: unset !important;
+    align-items: unset !important;
+    
+}
+
+.head.d-flex .sub-head{
+
+    margin-bottom: 1rem !important;
+
+}
+
+/*--header--*/
+/*--top header--*/
+
+.top-header-sec .col-lg-5:last-child .header-content {
+    float: unset !important;
+    margin: 0 auto !important;
+}
+
+.top-header-sec .col-lg-5:last-child .header-content ul.d-flex{
+
+   justify-content: center !important;
+
+}
+
+.dropdown-sub-menu.notifications-sub-men{
+
+    display: none !important;
+
+}
+.top-header-sec .main-bars{
+
+    display: none !important;
+
+}
+.top-header-sec .responsive-bars{
+
+    display: block !important;
+
+}
+.top-header-sec .header-content .bars-icon{
+
+    margin: 0 auto !important;
+
+}
+.top-header-sec .bars span:nth-child(2){
+
+
+     width: 30px !important;
+
+}
+
+.top-header-sec ul>li>a {
+  
+     padding: 1rem 0.7rem !important;
+
+    
+}
+
+.sidebar-content  .items {
+    height: 550px !important;
+
+}
+/*--//top header--*/
+
+/*--side header--*/
+
+.side-navbar{
+
+    width: 0 !important;
+  
+}
+
+.sidenavbar-background-fade.show{
+  
+    opacity: 1 !important;
+    visibility: visible !important;
+    
+}
+
+/*--//side header--*/
+/*--//header--*/
+
+/*--main page content--*/
+
+.main-page-content{
+
+    margin-right:0 !important;
+
+}
+
+.page-content>.container-fluid{
+
+    padding: 0 !important;
+}
+
+/*--//main page content--*/
+
+/*--toggle sidebar && toggle page--*/
+
+.top-header-sec .bars.resize span:nth-child(2){
+
+    width:25px !important;
+
+}
+.resize-sidebar .side-navbar,
+.resize-sidebar.expand-sidebar .side-navbar{
+
+    width:300px !important;  
+  
+}
+.resize-sidebar .side-navbar .navbar-brand{
+
+    width: 100px !important;
+}
+.resize-sidebar .side-navbar .navbar-brand img{
+
+
+    content:url(../images/orca-logo-ar.png) !important;
+
+
+}
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link{
+
+ 
+ border-bottom-color:transparent !important;
+
+}
+
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link .text-icon{
+
+    margin-left: 7px !important;
+
+}
+
+.resize-sidebar .side-navbar .text,
+.resize-sidebar  .side-navbar span:nth-child(3){
+
+    opacity: 1 !important;
+    display: inline !important;
+
+}
+.resize-sidebar .main-page-content,
+.resize-sidebar.expand-sidebar .main-page-content{
+
+    margin-right:0 !important;
+
+}
+/*--//toggle sidebar--*/
+ /*-------------------------------------------- Sign Pages-----------------------------------------------------------*/
+ .sign-sec .login-content  .form-row{
+
+      display: block;
+ 
+     }
+    .sign-sec .login-content  .forget-password {
+    
+       text-align: right;
+    }
+   
+    /*--------------------------------------------// Sign Pages-----------------------------------------------------------*/
+    
+    /*---------------------------------------- Home Page ------------------------------------------------*/
+
+.orca-sec .head .inline {
+    display: block;
+    text-align: right;
+    float:unset;
+    margin-bottom:0.3rem;
+}
+.orca-sec .head .inline:last-child {
+   
+    margin-bottom:0;
+}
+/*----------------------------------------// Home Page ------------------------------------------------*/
+/*---------------------------------------- Sub Page Content ------------------------------------------------*/
+
+.view-content .col-sm-12{
+
+    margin-bottom:30px !important;
+
+}
+.view-content .text-content {
+   
+    display: block !important;
+    align-items:unset !important;
+
+}
+
+.view-content .text-content .sub-text {
+    margin-right: 0 !important;
+    margin-top: 1rem !important;
+}
+
+.view-content .text-content .background-icon{
+
+    margin: unset !important;
+
+}
+.view-content.medical-view .col-lg-5 {
+    padding-right: 5px!important;
+    padding-left: 10px!important;
+}
+.view-content .owl-images .image {
+       
+    width: 100% !important;
+
+    
+}
+
+.view-content .col-lg-4 .image,
+.view-content .owl-images .image,
+.view-content.gallery-slider-view .owl-images .image{
+       
+       height:100% !important;
+   }
+/*--------------------------------------// Sub Page Content ------------------------------------------------*/ 
+
+}
+@media screen and (max-width:575px) and (min-width:501px){
+
+  .head.d-flex{
+
+    display: block !important;
+    text-align:center !important;
+    margin: 0 auto !important;
+    justify-content: unset !important;
+    align-items: unset !important;
+    
+}
+
+.head.d-flex .sub-head{
+
+    margin-bottom: 1rem !important;
+
+}
+/*--header--*/
+/*--top header--*/
+
+.top-header-sec .col-lg-5:last-child .header-content {
+    float: unset !important;
+    margin: 0 auto !important;
+}
+
+
+.top-header-sec .col-lg-5:last-child .header-content ul.d-flex{
+
+   justify-content: center !important;
+
+}
+
+.dropdown-sub-menu.notifications-sub-men{
+
+    display: none !important;
+
+}
+.top-header-sec .main-bars{
+
+    display: none !important;
+
+}
+.top-header-sec .responsive-bars{
+
+    display: block !important;
+
+}
+.top-header-sec .header-content .bars-icon{
+
+    margin: 0 auto !important;
+
+}
+.top-header-sec .bars span:nth-child(2){
+
+
+     width: 30px !important;
+
+}
+  .top-header-sec ul>li>a {
+  
+       padding: 1rem 0.7rem !important;
+    
+    }
+.sidebar-content  .items {
+    height: 550px !important;
+
+}
+/*--//top header--*/
+
+/*--side header--*/
+
+.side-navbar{
+
+    width: 0 !important;
+  
+}
+
+.sidenavbar-background-fade.show{
+  
+    opacity: 1 !important;
+    visibility: visible !important;
+    
+}
+
+/*--//side header--*/
+/*--//header--*/
+
+/*--main page content--*/
+
+.main-page-content{
+
+    margin-right:0 !important;
+
+}
+
+.page-content>.container-fluid{
+
+    padding: 0 !important;
+}
+
+/*--//main page content--*/
+
+/*--toggle sidebar && toggle page--*/
+
+.top-header-sec .bars.resize span:nth-child(2){
+
+    width:25px !important;
+
+}
+.resize-sidebar .side-navbar,
+.resize-sidebar.expand-sidebar .side-navbar{
+
+    width:300px !important;  
+  
+}
+.resize-sidebar .side-navbar .navbar-brand{
+
+    width: 100px !important;
+}
+.resize-sidebar .side-navbar .navbar-brand img{
+
+
+    content:url(../images/orca-logo-ar.png) !important;
+
+
+}
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link{
+
+ 
+ border-bottom-color:transparent !important;
+
+}
+
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link .text-icon{
+
+    margin-left: 7px !important;
+
+}
+
+.resize-sidebar .side-navbar .text,
+.resize-sidebar  .side-navbar span:nth-child(3){
+
+    opacity: 1 !important;
+    display: inline !important;
+
+}
+.resize-sidebar .main-page-content{
+
+    margin-right:0 !important;
+
+}
+
+.resize-sidebar.expand-sidebar .main-page-content{
+
+    margin-right:0 !important;
+
+}
+
+/*--//toggle sidebar--*/
+
+/*---------------------------------------- Home Page ------------------------------------------------*/
+
+.orca-sec .head .inline {
+    display: block;
+    text-align: right;
+    float:unset;
+    margin-bottom:0.3rem;
+}
+.orca-sec .head .inline:last-child {
+   
+    margin-bottom:0;
+}
+/*----------------------------------------// Home Page ------------------------------------------------*/
+/*---------------------------------------- Sub Page Content ------------------------------------------------*/
+
+.view-content .col-sm-12{
+
+    margin-bottom:30px !important;
+
+}
+
+.view-content.medical-view .col-lg-5 {
+    padding-right: 5px!important;
+    padding-left: 10px!important;
+}
+.view-content .owl-images .image{
+       
+    width: 100% !important;
+}
+
+.view-content .col-lg-4 .image,
+.view-content .owl-images .image,
+.view-content.gallery-slider-view .owl-images .image{
+       
+       height:100% !important;
+   }
+/*--------------------------------------// Sub Page Content ------------------------------------------------*/      
+
+}
+@media screen and (max-width:767px) and (min-width:576px){
+
+.head.d-flex{
+
+    display: block !important;
+    text-align:center !important;
+    margin: 0 auto !important;
+    justify-content: unset !important;
+    align-items: unset !important;
+    
+}
+
+.head.d-flex .sub-head{
+
+    margin-bottom: 1rem !important;
+
+}
+/*--header--*/
+/*--top header--*/
+
+.top-header-sec .col-lg-5:last-child .header-content {
+    float: unset !important;
+    margin: 0 auto !important;
+}
+
+
+.top-header-sec .col-lg-5:last-child .header-content ul.d-flex{
+
+   justify-content: center !important;
+
+}
+
+.dropdown-sub-menu.notifications-sub-men{
+
+    display: none !important;
+
+}
+.top-header-sec .main-bars{
+
+    display: none !important;
+
+}
+.top-header-sec .responsive-bars{
+
+    display: block !important;
+
+}
+.top-header-sec .header-content .bars-icon{
+
+    margin: 0 auto !important;
+
+}
+.top-header-sec .bars span:nth-child(2){
+
+
+     width: 30px !important;
+
+}
+
+  .top-header-sec ul>li>a {
+  
+       padding: 1rem 0.7rem !important;
+    
+    }
+
+.sidebar-content  .items {
+    height: 550px !important;
+
+}
+/*--//top header--*/
+
+/*--side header--*/
+
+.side-navbar{
+
+    width: 0 !important;
+  
+}
+
+.sidenavbar-background-fade.show{
+  
+    opacity: 1 !important;
+    visibility: visible !important;
+    
+}
+
+/*--//side header--*/
+/*--//header--*/
+
+/*--main page content--*/
+
+.main-page-content{
+
+    margin-right:0 !important;
+
+}
+
+.page-content>.container-fluid{
+
+    padding: 0 !important;
+}
+
+/*--//main page content--*/
+
+/*--toggle sidebar && toggle page--*/
+
+.top-header-sec .bars.resize span:nth-child(2){
+
+    width:25px !important;
+
+}
+.resize-sidebar .side-navbar,
+.resize-sidebar.expand-sidebar .side-navbar{
+
+    width:300px !important;  
+  
+}
+.resize-sidebar .side-navbar .navbar-brand{
+
+    width: 100px !important;
+}
+.resize-sidebar .side-navbar .navbar-brand img{
+
+
+    content:url(../images/orca-logo-ar.png) !important;
+
+
+}
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link{
+
+ 
+ border-bottom-color:transparent !important;
+
+}
+
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link .text-icon{
+
+    margin-left: 7px !important;
+
+}
+
+.resize-sidebar .side-navbar .text,
+.resize-sidebar  .side-navbar span:nth-child(3){
+
+    opacity: 1 !important;
+    display: inline !important;
+
+}
+.resize-sidebar .main-page-content,
+.resize-sidebar.expand-sidebar .main-page-content{
+
+    margin-right:0 !important;
+
+}
+
+/*--//toggle sidebar--*/
+
+
+/*---------------------------------------- Sub Page Content ------------------------------------------------*/
+
+.view-content .col-sm-12{
+
+    margin-bottom:30px !important;
+
+}
+.view-content.medical-view .col-lg-5 {
+    padding-right: 5px!important;
+    padding-left: 10px!important;
+}
+
+.view-content .owl-images .image {
+       
+    width: 100% !important;
+    height: 230px!important;
+}
+.view-content .col-lg-4 .image,
+.view-content .owl-images .image,
+ .view-content.gallery-slider-view .owl-images .image{
+       
+       height:100% !important;
+   }
+  
+/*--------------------------------------// Sub Page Content ------------------------------------------------*/      
+
+
+}
+@media screen and (max-width:768px){
+
+.head.d-flex{
+
+    display: block !important;
+    text-align:center !important;
+    margin: 0 auto !important;
+    justify-content: unset !important;
+    align-items: unset !important;
+    
+}
+
+.head.d-flex .sub-head{
+
+    margin-bottom: 1rem !important;
+
+}
+/*--header--*/
+/*--top header--*/
+
+.top-header-sec .main-bars{
+
+    display: none;
+
+}
+.top-header-sec .responsive-bars{
+
+    display: block;
+
+}
+
+.top-header-sec .bars span:nth-child(2){
+
+
+     width: 30px;
+
+}
+
+.top-header-sec ul>li>a {
+   
+    padding: 1rem 0.2rem;
+}
+.sidebar-content  .items {
+    height: 550px;
+}
+/*--//top header--*/
+
+/*--side header--*/
+ body.hide-flow{
+
+     overflow: hidden !important;
+ }
+.side-navbar{
+
+    width: 0;
+  
+}
+
+.sidenavbar-background-fade.show{
+  
+    opacity: 1;
+    visibility: visible;
+    
+}
+
+/*--//side header--*/
+/*--//header--*/
+
+/*--main page content--*/
+
+.main-page-content{
+
+    margin-right:0;
+
+}
+
+.page-content>.container-fluid{
+
+    padding: 0 !important;
+}
+
+ 
+ .page-content .content{
+
+       height: auto;
+       margin-bottom:30px;
+    }  
+    
+ 
+
+/*--//main page content--*/
+
+/*--toggle sidebar && toggle page--*/
+
+.top-header-sec .bars.resize span:nth-child(2){
+
+    width:25px;
+
+}
+.resize-sidebar .side-navbar,
+.resize-sidebar.expand-sidebar .side-navbar{
+
+    width:300px;  
+  
+}
+.resize-sidebar .side-navbar .navbar-brand{
+
+    width: 100px;
+}
+.resize-sidebar .side-navbar .navbar-brand img{
+
+
+    content:url(../images/orca-logo-ar.png);
+
+
+}
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link{
+
+ 
+ border-bottom-color:transparent;
+
+}
+
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link .text-icon{
+
+    margin-left: 7px;
+
+}
+
+.resize-sidebar .side-navbar .text,
+.resize-sidebar  .side-navbar span:nth-child(3){
+
+    opacity: 1;
+    display: inline;
+
+}
+.resize-sidebar .main-page-content,
+.resize-sidebar.expand-sidebar .main-page-content{
+
+    margin-right:0;
+
+
+}
+
+/*--//toggle sidebar--*/
+
+/*-------------------------------------------- Sign Pages-----------------------------------------------------------*/
+     .sign-sec:before {
+    
+      opacity: 0.25;
+      background-size: unset;
+  
+     }
+     .sign-sec .content {
+      
+       padding: 1rem;
+       margin: 4rem 0;
+
+     }
+      .sign-sec .content .col-lg-6 {
+  
+       padding-left: 15px;
+       padding-right: 15px;
+  
+     }
+    .sign-sec .content .col-lg-6:first-child .box-content{
+     
+      border-radius: 20px;
+    
+    }
+    .sign-sec .col-lg-6:last-child {
+    
+      display: none;
+  
+     }
+     /*--------------------------------------------// Sign Pages-----------------------------------------------------------*/
+     
+/*---------------------------------------- Sub Page Content ------------------------------------------------*/
+
+.view-content .owl-images .image {
+       
+    width: 100%;
+    height: 230px;
+
+}
+
+ .view-content.gallery-slider-view .owl-images .image{
+       
+       height:100%;
+   }
+/*--------------------------------------// Sub Page Content ------------------------------------------------*/
+}
+@media screen and (max-width:991px) and (min-width:769px) {
+
+.head.d-flex{
+
+    display: block !important;
+    text-align:center !important;
+    margin: 0 auto !important;
+    justify-content: unset !important;
+    align-items: unset !important;
+    
+}
+
+.head.d-flex .sub-head{
+
+    margin-bottom: 1rem !important;
+
+}
+/*--header--*/
+/*--top header--*/
+
+.top-header-sec .main-bars{
+
+    display: none;
+
+}
+.top-header-sec .responsive-bars{
+
+    display: block;
+
+}
+
+.top-header-sec .bars span:nth-child(2){
+
+
+     width: 30px;
+
+}
+
+.top-header-sec ul>li>a {
+    
+    padding: 1rem 0.3rem;
+
+}
+.sidebar-content .items {
+    height: 550px;
+}
+/*--//top header--*/
+
+/*--side header--*/
+ body.hide-flow{
+
+      overflow: hidden !important;
+   }
+.side-navbar{
+
+    width: 0;
+  
+}
+
+.sidenavbar-background-fade.show{
+  
+    opacity: 1;
+    visibility: visible;
+    
+}
+
+/*--//side header--*/
+/*--//header--*/
+
+/*--main page content--*/
+
+.main-page-content{
+
+    margin-right:0;
+
+}
+.page-content>.container-fluid{
+
+    padding: 0 !important;
+}
+
+ 
+ .page-content .content{
+
+       height: auto;
+       margin-bottom:30px;
+    }  
+    
+/*--//main page content--*/
+
+/*--toggle sidebar && toggle page--*/
+
+.top-header-sec .bars.resize span:nth-child(2){
+
+    width:25px;
+
+}
+.resize-sidebar .side-navbar,
+.resize-sidebar.expand-sidebar .side-navbar{
+
+    width:300px;  
+  
+}
+.resize-sidebar .side-navbar .navbar-brand{
+
+    width: 100px;
+}
+.resize-sidebar .side-navbar .navbar-brand img{
+
+
+    content:url(../images/orca-logo-ar.png);
+
+
+}
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link{
+
+ 
+ border-bottom-color:transparent;
+
+}
+
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link .text-icon{
+
+    margin-left: 7px;
+
+}
+
+.resize-sidebar .side-navbar .text,
+.resize-sidebar  .side-navbar span:nth-child(3){
+
+    opacity: 1;
+    display: inline;
+
+}
+.resize-sidebar .main-page-content,
+.resize-sidebar.expand-sidebar .main-page-content{
+
+    margin-right:0;
+
+}
+
+/*--//toggle sidebar--*/
+
+/*-------------------------------------------- Sign Pages-----------------------------------------------------------*/
+  .sign-sec:before {
+    
+    opacity: 0.25;
+
+   }
+   .sign-sec .content {
+    
+    padding: 1rem;
+    margin: 4rem 0;
+
+   }
+    .sign-sec .content .col-lg-6 {
+
+     padding-left: 15px;
+     padding-right: 15px;
+
+   }
+  .sign-sec .content .col-lg-6:first-child .box-content{
+   
+    border-radius: 20px;
+  
+  }
+  .sign-sec .col-lg-6:last-child {
+  
+    display: none;
+
+   }
+   /*--------------------------------------------// Sign Pages-----------------------------------------------------------*/
+   
+  
+ 
+
+/*---------------------------------------- Sub Page Content ------------------------------------------------*/
+
+.view-content .owl-images .image {
+       
+    width: 100%;
+    height: 250px;
+    
+   }
+   
+   .view-content.gallery-slider-view .owl-images .image{
+       
+       height:100%;
+   }
+/*--------------------------------------// Sub Page Content ------------------------------------------------*/      
+
+}
+@media screen and (max-width:1024px) and (min-width:992px){
+
+/*--header--*/
+/*--top header--*/
+
+.top-header-sec .main-bars{
+
+    display: none;
+
+}
+.top-header-sec .responsive-bars{
+
+    display: block;
+
+}
+.top-header-sec .bars span:nth-child(2){
+
+
+     width: 30px;
+
+}
+.sidebar-content  .items {
+        height: 550px;
+}
+
+/*--//top header--*/
+
+/*--side header--*/
+
+ body.hide-flow{
+
+      overflow: hidden !important;
+   }
+.side-navbar{
+
+    width: 0;
+  
+}
+
+.sidenavbar-background-fade.show{
+  
+    opacity: 1;
+    visibility: visible;
+    
+}
+
+/*--//side header--*/
+/*--//header--*/
+
+/*--main page content--*/
+
+.main-page-content{
+
+    margin-right:0;
+
+}
+
+.page-content>.container-fluid{
+
+    padding: 0 !important;
+}
+
+/*--//main page content--*/
+
+/*--toggle sidebar && toggle page--*/
+
+.top-header-sec .bars.resize span:nth-child(2){
+
+    width:25px;
+
+}
+.resize-sidebar .side-navbar,
+.resize-sidebar.expand-sidebar .side-navbar{
+
+    width:300px;  
+  
+}
+.resize-sidebar .side-navbar .navbar-brand{
+
+    width: 100px;
+}
+.resize-sidebar .side-navbar .navbar-brand img{
+
+
+    content:url(../images/orca-logo-ar.png);
+
+
+}
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link{
+
+ 
+ border-bottom-color:transparent;
+
+}
+
+.resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link .text-icon{
+
+    margin-left: 7px;
+
+}
+
+.resize-sidebar .side-navbar .text,
+.resize-sidebar  .side-navbar span:nth-child(3){
+
+    opacity: 1;
+    display: inline;
+
+}
+.resize-sidebar .main-page-content,
+.resize-sidebar.expand-sidebar .main-page-content{
+
+    margin-right:0;
+
+}
+/*--//toggle sidebar--*/
+
+/*---------------------------------------- Sub Page Content ------------------------------------------------*/
+
+ .view-content .owl-images .image {
+       
+    width: 100%;
+    height: 300px;
+    
+   }
+/*--------------------------------------// Sub Page Content ------------------------------------------------*/      
+      
+
+
+}
+@media screen and (max-width:1120px) and (min-width:1025px){
+
+    /*--header--*/
+    /*--top header--*/
+      
+    .top-header-sec .main-bars{
+
+       display: none;
+
+    }
+    .top-header-sec .responsive-bars{
+
+        display: block;
+
+    }
+    .top-header-sec .bars span:nth-child(2){
+
+
+        width: 30px;
+
+    }
+   .sidebar-content .items {
+       height: 545px;
+    }
+    /*--//top header--*/
+    
+    /*--side header--*/
+    
+     body.hide-flow{
+
+      overflow: hidden !important;
+     } 
+    .side-navbar{
+    
+        width: 0;
+      
+    }
+    
+    .sidenavbar-background-fade.show{
+      
+        opacity: 1;
+        visibility: visible;
+        
+    }
+    
+    /*--//side header--*/
+    /*--//header--*/
+    
+    /*--main page content--*/
+    
+    .main-page-content{
+    
+        margin-right:0;
+    
+    }
+    .page-content>.container-fluid{
+
+        padding: 0 !important;
+    }
+    
+    /*--//main page content--*/
+    
+    /*--toggle sidebar && toggle page--*/
+    
+    .top-header-sec .bars.resize span:nth-child(2){
+    
+        width:25px;
+    
+    }
+    .resize-sidebar .side-navbar,
+    .resize-sidebar.expand-sidebar .side-navbar{
+    
+        width:300px;  
+      
+    }
+    .resize-sidebar .side-navbar .navbar-brand{
+    
+        width: 100px;
+    }
+    .resize-sidebar .side-navbar .navbar-brand img{
+    
+    
+        content:url(../images/orca-logo-ar.png);
+    
+    
+    }
+    .resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link{
+    
+     
+     border-bottom-color:transparent;
+    
+    }
+    
+    .resize-sidebar .side-navbar .navbar-nav .nav-item .nav-link .text-icon{
+    
+        margin-left: 7px;
+    
+    }
+    
+    .resize-sidebar .side-navbar .text,
+    .resize-sidebar  .side-navbar span:nth-child(3){
+    
+        opacity: 1;
+        display: inline;
+    
+    }
+    .resize-sidebar .main-page-content,
+    .resize-sidebar.expand-sidebar .main-page-content{
+    
+        margin-right:0;
+    
+    }
+
+    /*--//toggle sidebar--*/
+
+
+
+   /*---------------------------------------- Sub Page Content ------------------------------------------------*/
+
+  
+   .view-content .owl-images .image {
+       
+    width: 100%;
+   }
+  /*--------------------------------------// Sub Page Content ------------------------------------------------*/
+      
+}
+@media screen and (max-width:1295px) and (min-width:1121px){
+
+    /*---------------------------------------- Sub Page Content ------------------------------------------------*/
+   
+      .view-content .owl-images .image {
+          
+       width: 100%;
+      }
+     /*--------------------------------------// Sub Page Content ------------------------------------------------*/
+     
+
+      
+   }
+@media screen and (min-width:1440px){
+
+ /*---------------------------------------- Sub Page Content ------------------------------------------------*/
+
+   .view-content .owl-images .image {
+       
+    width: 100%;
+   }
+  /*--------------------------------------// Sub Page Content ------------------------------------------------*/
+   
+}
+/*--//media query--*/
