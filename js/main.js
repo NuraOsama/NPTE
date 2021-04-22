@@ -40,8 +40,8 @@
 
   // checkbox Route navigation
 
-  let AdminstratorURL="/home-adminstrator.html";
-  let InstructorURL="/home-instructor.html";
+  let AdminstratorURL="https://nuraosama.github.io/NPTE/home-adminstrator.html";
+  let InstructorURL="https://nuraosama.github.io/NPTE/home-instructor.html";
 
   $("#instractor-text").hide();
   $("#learner-text").hide();
