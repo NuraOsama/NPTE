@@ -43,9 +43,6 @@
   let AdminstratorURL="https://nuraosama.github.io/NPTE/home-adminstrator.html";
   let InstructorURL="https://nuraosama.github.io/NPTE/home-instructor.html";
 	
-  let AdminstratorPathName="/home-adminstrator.html";
-  let InstructorPathName="/home-instructor.html";
-
   $("#instractor-text").hide();
   $("#learner-text").hide();
   $('#administrator').on('change', function(event) {
