@@ -40,8 +40,11 @@
 
   // checkbox Route navigation
 
-  let AdminstratorURL="~/home-adminstrator.html";
-  let InstructorURL="~/home-instructor.html";
+  let AdminstratorURL="https://nuraosama.github.io/NPTE/home-adminstrator.html";
+  let InstructorURL="https://nuraosama.github.io/NPTE/home-instructor.html";
+	
+  let AdminstratorPathName="home-adminstrator.html";
+  let InstructorPathName="home-instructor.html";
 
   $("#instractor-text").hide();
   $("#learner-text").hide();
@@ -61,7 +64,7 @@
 
     }
   })
-  if(window.location == AdminstratorURL){
+  if(window.location.pathname == AdminstratorPathName){
 
     $("#administrator").attr('checked', true);
     $("#instractor").attr('checked', false);
@@ -70,7 +73,7 @@
 
   }
 
-  if(window.location == InstructorURL){
+  if(window.location.pathname == InstructorPathName){
 
     $("#instractor").attr('checked', true);
     $("#administrator").attr('checked', false);
